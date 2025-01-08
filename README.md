@@ -66,8 +66,3 @@ Ensure the application is responsive and works seamlessly across various devices
 
 ---
 
-## Installation & Setup
-
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/your-username/personal-expense-tracker.git
