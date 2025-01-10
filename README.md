@@ -1,4 +1,4 @@
-# Personal Expense Tracker
+# Broke-o-Meter
 
 ## Project Overview
 The **Personal Expense Tracker** is a web application designed to help users efficiently manage their daily expenses. It allows users to log expenses, categorize their spending, set budgets, and track financial habits through visual summaries such as charts and graphs. This tool promotes better financial awareness and money management.
