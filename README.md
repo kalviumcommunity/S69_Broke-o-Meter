@@ -64,5 +64,5 @@ This project could be a great contribution to the open-source community. By shar
 ### **6. Mobile Responsiveness**
 Ensure the application is responsive and works seamlessly across various devices (desktop, tablets, smartphones), providing flexibility for users to track expenses on the go.
 
-
+---
 
